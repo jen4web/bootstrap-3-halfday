@@ -1,0 +1,14 @@
+From the starting apples page, add tabs to the page as follows:
+
+1. Add class of "nav nav-tabs" to the UL with ID of tabNav
+
+2. Add data-toggle="tab" to each A in the UL
+
+3. Link each href in the A in the UL to each ID (overview, botanical, wild, genome)
+
+4. Surround the overview, botanical, wild, genome div's with IDs with a single div with class of "tab-content"
+
+5. For the overview div, add classes of tab-pane and active. For wild, genome, and botanical divs, add a class of tab-pane
+
+6. View in browser -- should look and function OK.
+
